@@ -1,6 +1,6 @@
 {
   "name": "@mediatool/mt-tac",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Mediatool terms and conditions",
   "main": "current-tac-version.js"
 }
