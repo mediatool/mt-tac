@@ -1,0 +1,1346 @@
+<style type="text/css">
+   /* Indent Formatting */
+   /* Format: a-i-1 */
+   ol {list-style-type: lower-alpha;}
+   ol ol { list-style-type: lower-roman;}
+   ol ol ol { list-style-type: decimal;}
+</style>
+
+# Mediatool Saas Agreement General Terms and Conditions
+Version 2.0.0, Updated 18 October 2022
+
+### These General Terms and Conditions are applicable by reference in the Order Confirmation (defined below) between Mediatool World W AB, reg. no. 556790-6689, Slupskjulsvägen 34, 111 49 Stockholm, Sweden (“**Mediatool**”) and the Customer, regarding the Customer’s use of the services provided by Mediatool. Details, including commercial details, of the delivery are provided in the Order Confirmation. In case of conflict between any provision of these General Terms and Conditions and any provision of its appendices or the Order Confirmation, the provision of the appendices and the Order Confirmation shall prevail.
+
+### Mediatool and Customer individually referred to as a “**Party**” and collectively as the “**Parties**”.
+
+## 1. Definitions
+
+1.1 The following words and expressions and their inflectional forms in the Agreement have the following meanings:
+
+“**Affiliate**” shall mean any person or entity directly or indirectly controlling, controlled by, or under common control with a Party where “control” means the legal power to control the election of a majority of the board of directors or otherwise direct or cause the direction of the general management of the company, partnership or other legal entity.
+
+“**Agreement**” means these General Terms and Conditions, the Order Confirmation, and, where applicable, the Standard Contractual Clauses (Appendices A-C) for processing personal data.
+
+“**Business days**” means days when commercial banks are open for general banking business (other than Internet banking) in Sweden.
+
+“**Confidential Information**” means all information which is designated in writing or orally as being confidential or which should otherwise be reasonably deemed to be confidential, given the nature of the information or the manner of its disclosure, including without limitations, with respect to Customer, the Customer Data and information related to Customer’s organization, business plans, media plans, marketing activities, financial performance, sales figures, customers and prospects, and in respect of Mediatool, all information related to the Service including all software, source code, Documentation, intellectual property, methods, processes and techniques in the Service, developments, know-how, and the service offering terms (including pricing). Confidential Information shall not include information that is: (i) already known to the receiving Party prior to disclosure; (ii) publicly known through no wrongful act or omission of the receiving Party; (iii) received from a third party without violation of law or contractual obligation; or (iv) independently developed without use of the non-public information.
+
+“**Critical Maintenance**” means the correction of critical software faults and hardware failure including security patches on third party applications/Third-Party Data Sources.
+
+“**Customer**” means the party set out in the Order Confirmation, other than Mediatool.
+
+“**Customer Data**” means any data, information, or document of Customer that is imported, uploaded recorded, or otherwise entered into the Service.
+
+“**Deliverable**” means the reports, schedules, analysis, and budgets based on Customer Data that is an output of the Service generated through Users use of the Service.
+
+“**Documentation**” means user manuals, guidelines, instructions, training material, specifications and product information relating to the Service and its use, which is provided to Customer by Mediatool, publicly published by Mediatool, or otherwise available on the website. Except for Documentation publicly published by Mediatool, any Documentation shall be considered as Confidential Information of Mediatool.
+
+“**Effective Date**” means the start date for the Service as set out in the Order Confirmation; or, if such date is not stated, the date the Order Confirmation is signed by both Parties.
+
+“**Expenses**” means out-of-pocket expenses incurred by Mediatool in connection with the provision of the Services for which Mediatool seeks reimbursement from Customer.
+
+“**Implementation Cost**” means the cost for implementation services as set out in an Order Confirmation.
+
+“**Intellectual Property**” means all current and future copyrights, trademarks, trade names, service marks, logos, slogans, trade secrets, utility models, design rights, know-how and applications, contract rights, source code and other proprietary rights, and any registrations, patents, and renewals of the same.
+
+“**Mediatool Software**” means all software in and related to Mediatool’s product/application incorporated in the Service, along with any releases, updates, developments, or upgrades.
+
+“**Order Confirmation**” means the commercial terms for the Customer’s use of the Service which the Parties have agreed on.
+
+“**Service**” means the Internet-based media planning tool described in Clause 2.1.
+
+“**Service Fee**” means the subscription fee for the Services as set out in the Order Confirmation.
+
+“**Term**” means the duration of the Agreement as set out in the Order Confirmation.
+
+“**Third-Party Data Source**” means a digital source from which Customer Data is imported to be used in the Service.
+
+“**Users**” means Customer’s employees, or anyone authorized by Customer to use the Service.
+
+“**Volume Commitment**” The minimum number of Users that the Customer, according to the applicable Order Confirmation, has undertaken to order the Service for during the Term.
+
+## 2. Terms of use
+
+2.1 **The Service.** The service is an Internet-based media planning tool which helps companies and organisations to manage its media management process from planning and executing media to tracking and optimizing media and marketing campaigns. The Service is provided through Mediatool’s Platform and consists of the features and services included in the subscription chosen by Customer (as set out in the Order Confirmation).
+
+2.2 **Grant of use.** Mediatool grants Customer a world-wide, non-exclusive, non-transferable, non-sublicensable license during the Term to access and use the Service including the Mediatool Software and the Documentation, as permitted by and subject to the terms of this Agreement.
+
+2.3 **Users.** The license allows Users the right to remotely access and use the Service solely for Customer’s internal business purposes. The right to use the Service is limited to the number of User acquired by Customer. Each User must be a physical person and must be provided with a user account. Each user account must only be used by the registered person. Customer will remain fully liable and responsible for any actions of Users including their compliance with this Agreement.
+
+2.4 Customer has the right to, at any time during the Term, add and/or remove Users, which may mean that the number of Users varies during the Term. However, the minimum number of Users per month may not fall below the Customer’s Volume Commitment specified in the applicable Order Confirmation. Customer will be charge for any extra added User in accordance with the applicable price list and Section 5 below.
+
+2.5 **Restrictions and obligations.** Using the Service, Customer warrants that it shall: (i) take all necessary actions to prevent unauthorized access to the Service, and especially not disclose any user authentication or security of the Service; (ii) ensure that all Users are bound by provisions of confidentiality in writing which are at least equal to the terms of this Agreement; (iii) only access and use the Service through the API or interface provided by Mediatool, and not remove or modify any markings, trademarks, or notices; (iv) make sure that all Customer Data added, uploaded, or otherwise imported to the Service is lawful, does not violate any agreement, third-party right, or data protection laws, is virus-free, and not in any way capable of damaging or negatively affecting the Service or Mediatool; (v) not sell, sub-license, transfer, redistribute, assign, copy or otherwise commercially exploit or make the Service, or any features or ideas in the Service available to any third party; (vi) not use an automated software program, spider, web-crawler, URL checker, computer “robot”, or other program to access the Service; (vii) not send, store, submit, or upload malicious, or harmful code on, or to the Service / Mediatool Software; (viii) not duplicate, reverse engineer, decompile, disassemble, translate or otherwise modify or interfere with the Mediatool Software or systems used to provide the Service; (ix) not use the Service in a way that does not comply with this Agreement, applicable laws, rules and regulations; and (x) not make any security and/or capacity tests of the Services.
+
+## 3. The service
+
+3.1 **The Service.** Mediatool shall, against Customer’s payment of the Service Fee and Implementation Costs, make the Service available to Customer in accordance with the applicable Order Confirmation. The Service and all data and information herein (including Customer Data) are stored in Mediatool’s cloud environment (which is in turn managed by the cloud provider Amazon Web Services) and/or on Mediatool’s servers.
+
+3.2 In order for the Customer to use the Service in the intended manner, Customer must upload necessary information regarding its media and marketing plans, activities, budgets and performance indicators and other business information (i.e. Customer Data) to the Service and take part in and participate in the implementation phase.
+
+3.3 **Customer Data.** Customer hereby grants Mediatool non-exclusive, non-transferrable, non-sub-licensable, fully paid license to use the Customer Data (and any part thereof) solely in the way contemplated by the Agreement or as is otherwise necessary for Mediatool’s performance of any contractual right or obligation in relation to the Customer.
+
+3.4 Mediatool undertakes to store Customer Data during Term and shall endeavour to make daily backups thereof. Notwithstanding the foregoing, Mediatool neither represents nor warrants that data losses will not occur, and Customer is advised to regularly backup Customer Data to avoid data losses.
+
+3.5 Mediatool’s use of Customer Data and Deliverables may include analyses of data and information relating to the use and performance of the Service, features, Third-Party Data Sources, and other related systems. Mediatool shall be entitled to, after anonymization and/or aggregation, use such data to (i) generally improve and enhance the Service and for development purposes, troubleshooting, and security purposes; and (ii) create statistics and include such data in aggregated form in connection with its business.
+
+3.6 **Third-Party Data Source**. Customer may connect to / integrate with certain Third-Party Data Sources when using the Service. Any data or information imported by or collected from or in relation to Customer’s use of a Third-Party Data Sources shall be considered as Customer Data. The use of Third-Party Data Sources shall be the responsibility of Customer, including paying any charges from such third party (as part of the contract between Customer and such third party). Mediatool reserves the right to change, restrict or terminate access to a Third-Party Data Sources at any time, for any reason. Such change may be made without notice in the event that Mediatool deems that the use is in any way contrary to law, or there is a risk hereof.
+
+3.7 **New Features**. Customer may propose new features to the Service (e.g. to integrate with a Third-Party Data Source not available in the Service), by providing Mediatool with a written proposal. Subject to Mediatool’s written confirmation and against consultancy fees specified in the applicable price list or a separate quotation upon such proposal, Mediatool undertakes to carry out the proposed new feature. Unless otherwise has been expressly agreed in writing, all rights to any new feature shall vest with Mediatool. Customer will have the right to use such new feature subject to Section 2 above.
+
+3.8 **Updates.** Mediatool may update, change or modify the Service at any time during the Term. Such changes may take place automatically in the Service without additional notifications or prior consent from the Customer or any User.
+
+3.9 **Personnel**. Mediatool’s employees and consultants performing the Service, shall have the proper skill and training to be able to perform in a good and workmanlike manner consistent with good practice in the applicable industry and in accordance with this Agreement.
+
+3.10 **Subcontractors.** Mediatool shall be entitled to engage subcontractors to fulfil its undertakings towards Customer, provided that Mediatool remains liable for the performance of the contractual obligations performed by the subcontractor as if they were performed by Mediatool.
+
+## 4. Support
+
+4.1 Mediatool and its IT-support function shall be available during Business Days between the hours of 9 AM – 4.30 PM CET, to provide technical assistance by e-mail.
+
+4.2 Mediatool shall, if possible, schedule any downtime to the Service due to updates between 5 PM – 9 AM CET weekdays or during weekends. Mediatool shall inform Customer seven (7) days in advance of any such updates. To receive such notification Customer need to specify an e-mail address to receive such information to.
+
+4.3 Should Critical Maintenance be required, it is expected that Mediatool should not seek permission for system outage or loss of service but whenever possible Mediatool will provide reasonable notice. Best endeavours will be made by Mediatool to limit effects of Critical Maintenance.
+
+## 5. Invoicing and payments
+
+5.1 Customer shall pay fees and costs to Mediatool as set out in the Order Confirmation. Unless otherwise has been agreed in writing, (i) Mediatool is entitled to invoice the Service Fee and Implementation Cost in advance; (ii) if Customer has chosen to pay by debit or credit card, Customer shall ensure that the balance covers the Service Fee before the end of each billing period. If Customer’s card cannot be charged, the access to the Service will cease automatically until the Service Fee has been paid in full; (iii) any other fees or costs e.g. consultant fees, will be invoiced in arrears; (iv) the Service is non-cancellable and all fees are non-refundable; (v) invoices shall be paid within fifteen (15) days after the invoice date of each invoice; and (vi) any Expense of greater than EURO 500 shall be subject to Customer’s prior written approval.
+
+5.2 Mediatool will continuously review the number of Users and invoice the fee for any extra added / requested Users.
+
+5.3 All amounts are given exclusive of VAT. Any payments to be made by Customer under the Agreement shall be made net of all deductions, withholdings or taxes of any kind. Should any payment from Customer to Mediatool, for any reason, be subject to any deductions, withholdings, or taxes, the agreed amount of payment shall be grossed up by the amount of such deductions, withholdings, or taxes in order for the sum receivable by Mediatool shall be the agreed amount of payment under the Agreement before such deductions, withholding, or taxes. Upon Mediatool’s request, the Customer shall provide Mediatool with VAT numbers and other information as reasonably required for Mediatool’s invoicing.
+
+5.4 In the event that Customer at any time should fail to timely make any payment under the Agreement, Mediatool shall be entitled to temporary suspend Customers access to the Service; and to add interest on the amount overdue until payment is made at a rate of the Swedish base rate (_Sw. referensränta_) plus eight (8) percentage points. In addition, Customer shall reimburse any costs or expenses (including, but not limited to, fees, charges, expenses, and costs for legal advisors) incurred by Mediatool to collect any amount that is not paid when due.
+
+5.5 The fees and costs stated in an Order Confirmation are fixed for a period of twelve (12) months from the Effective Date; whereafter Mediatool reserves the right to change any fees and costs at any time.
+
+## 6. Representation and warranties
+
+6.1 Each Party represents and warrants to the other that: (i) it has all right, power, and authority necessary to enter into the Agreement; (ii) the representative who entered into this Agreement on behalf of a Party has been duly authorized by all necessary corporate or organizational action of such Party; and (iii) this Agreement will constitute the legal, valid, and binding obligation of such Party, enforceable against such Party in accordance with its terms.
+
+6.2 Except as expressly provided in the Agreement, there are no other warranties, express or implied, made by Mediatool. The Service is provided on a ‘as is’ basis.
+
+## 7. Intellectual Property
+
+7.1 Ownership of and all current and future Intellectual Property incorporated in or relating to the Service, Documentation, and Mediatool Software vest exclusively in Mediatool and, or as the case may be, Mediatool’s suppliers or licensors.
+
+7.2 Nothing in this Agreement, or otherwise between the Parties, shall be construed as transferring or assigning the title or ownership of any Intellectual Property rights in the Service or the Mediatool Software from Mediatool to the Customer. That includes any modifications, developments (including but not limited to any feature development or API set up/third party integration), or      improvements to the Service or the Mediatool Software made at Customer’s request.
+
+7.3 Ownership of and all current and future Intellectual Property in Customer Data and the Deliverables shall vest exclusively in Customer. Mediatool is entitled to use Customer Data and Deliverables to the extent required for Mediatool to provide the Service, and as otherwise granted to Mediatool in this Agreement.
+
+## 8. Third party indemnification
+
+8.1 If legal measures have been taken or threatened against Customer, claiming that the use of the Service in accordance with the Agreement infringes any third-party Intellectual Property right, Customer shall promptly notify Mediatool in writing thereof. Upon receipt of written notice from Customer, Mediatool shall, in consultation with Customer, take all necessary actions to defend Customer against such claims and legal measures, including managing the defence in an infringement suit, conduct negotiations with the third-party claiming infringement, and negotiate a settlement. Customer shall, at its own cost, provide Mediatool reasonable assistance and shall execute any documents and power of attorneys necessary for Mediatool’s defence of Customer.
+
+8.2 Mediatool shall pay damages finally awarded against Customer with respect of such legal measures stated in Clause 8.1. Customer does not have any authority to enter into settlements or other arrangements in respect of any such claim, without the Mediatool’s prior written approval.
+
+8.3 Mediatool’s obligation to indemnify Customer under Clause 8.2 only applies if: (i) Mediatool knew, or should have known, about the right on which the third party claim is based; (ii) Customer has complied with Clause 8.1 above; (iii) Customer has not agreed, compromised or settled such claim or otherwise effected Mediatool’s ability to defend or negotiate the claim; and (iv) the alleged and established infringements are solely based on the use of the Service. Mediatool’s obligation indemnify Customer under this Section 8 also requires that (v) Customer has installed all updates provided by Mediatool to Customer (provided that use of such updated version of the Mediatool Software had helped avoid the infringement); and (vi) the infringement is not related or caused by the Customer Data.
+
+8.4 Mediatool may, at its sole discretion and expense, elect to: (i) modify or replace the infringing Services so that it is non-infringing but substantially equivalent in functionality; (ii) obtain a licence for Customer to continue to use the Services; or if neither (i) or (ii) can be achieved in terms Mediatool deems reasonable (iii) terminate the Agreement with immediate effect and cut off Customer’s access to the Service and refund the Service Fee paid by Customer by the amount corresponding to the remaining period of the term where the Service cannot be used, subject to the limitation of liability stated in Section 12.
+
+8.5 What is stated in Clause 8.2-8.4 shall constitute Mediatool’s entire responsibility for infringements in third party rights.
+
+## 9. Confidentiality
+
+9.1 Each Party shall not during the Term of this Agreement and for five (5) years thereafter directly or indirectly disclose to any third party any Confidential Information. This undertaking applies whether the Confidential Information is received in written form, verbally or in any other form.
+
+9.2 The Parties will only use the other’s Confidential Information to accomplish the intent of the Agreement. Both Parties will only disclose the other Party’s Confidential Information to those Affiliates, employees, representatives (including for the avoidance of doubt, auditors and legal advisers) and sub-contractors who have a need to know the relevant information in order to further the purposes of this Agreement. The disclosing party shall ensure that such receivers are bound by confidentiality.
+
+9.3 Nothing in this Agreement shall prohibit either Party from disclosing Confidential Information of the other Party if legally required to do so; provided that the disclosing Party shall: (i) give the other Party prompt written notice of such disclosure prior to disclosure (unless prohibited by the law); and (ii) only disclose the portion of Confidential Information required to fulfil the legal obligation.
+
+## 10. Personal data
+
+10.1 Customer may choose to import and/or upload documents and information (i.e. Customer Data) to the Service which could include personal data. Consequently, Mediatool may process personal data on behalf of Customer when providing the Service. The Parties acknowledge that Customer is, or shall be regarded as, a data controller of the processing of such personal data and Mediatool is, or shall be regarded as, a data processor of such personal data. If Customer enters Customer Data to the Service that includes personal data, the Parties must enter into the standard contractual clauses between controllers and processors under Article 28 (7) established by the EU Commission, <span style="text-decoration:underline;">Appendix A</span>. If Customer is domiciled or located outside the EU/EEA, the Parties must, in addition to Appendix A, enter into the standard contractual clauses for international transfers, <span style="text-decoration:underline;">Appendix B</span>. Until the Parties have entered into any of the said arrangements, Customer is responsible for ensuring that Customer Data uploaded to the Service does not contain personal data.
+
+10.2 In addition to the foregoing, the Parties acknowledge that they, separately and for its own purposes, including but not limited to perform in accordance with their obligations under this Agreement, will process personal data of the other Party’s employees and representatives, including with respect to Mediatool, Customer’s Users. Each Party is, or shall be, regarded as a data controller of the processing of such personal data. If Customer is domiciled or located outside the EU/EEA, the Parties must enter into the standard contractual clauses for international transfers, <span style="text-decoration:underline;">Appendix C.</span>
+
+10.3 Customer acknowledge and agrees that any personal data uploaded by Customer and/or any of its User to the Service can be accessed and processed by other Users of the Customer regardless of where in the world such User is located. Customer further acknowledge and agrees that Mediatool does not control or influence such processing and/or transfer of personal data and will therefore under no circumstances be held responsible for such transfer of personal data outside the country from which Customer originally delivered or uploaded the personal data. In this respect, it is Customer's responsibility to ensure that its Users have received sufficient instructions from Customer to avoid illegal transfer of personal data.
+
+## 11. TERM and Termination
+
+11.1 The term of this Agreement shall begin on the Effective Date and remain in effect during the Term. Unless either party terminates the Agreement by giving 90 days written notice before the end of the Term, the Agreement shall be automatically renewed for an additional Term, until terminated by either Party prior to the end of the then current Term subject to the same notice period as applied during the initial Term. The initial Term and any renewals shall be referred to herein, collectively, as the “Term”.
+
+11.2 Termination shall be made by Customer by visiting the settings page and cancel the subscription within the software if Customer is paying by card. Termination shall be made by Customer via email to info@mediatool.com if Customer is paying by invoice.
+
+11.3 **Termination for cause.** Either Party may terminate this Agreement in whole or in parts, immediately if the other Party has committed a material breach and does not remedy the same within thirty (30) days from written notification requiring the defaulting Party to remedy the same.
+
+11.4 **Termination for Other Events**. Either Party may terminate this Agreement immediately if the other Party suspends its payments, decides on, whether voluntary or involuntary, liquidation, applies to reorganize the company or bankruptcy (or if another part applies for the Party’s bankruptcy) or otherwise reasonably can be assumed to be insolvent.
+
+11.5 **Suspension of Service**. Mediatool may immediately suspend Customer’s right to access or use the Service if Mediatool at its sole discretion determines that Customer’s use of the Service does not comply with Section 2 of this Agreement, or jeopardize the security of the Service, any third party, or the networks or data of any of Mediatool’s service providers, customers, or business partners. Mediatool will notify Customer of the reason for such suspension and may thereafter terminate the Agreement in accordance with Clause 11.3 above.
+
+11.6 **Effect of Termination.** Customer will have the right to access and download its data, including Confidential Information, and Deliverables for a period of thirty (30) days following the date of termination. Upon Customer’s request Mediatool will promptly destroy or render unreadable all Confidential Information, including materials to the extent they contain Confidential Information. Regardless of whether Customer has made such a request to Mediatool, Mediatool will make Confidential Information unreadable within six (6) months following the date of termination.
+
+11.7 Notwithstanding the foregoing, Mediatool reserves the right to create and store statistics, data and analyses related to Customer’s use of the Service for business development purposes. For the avoidance of doubt such statistics, data and analysis will be on aggregated data and de-identified.
+
+11.8 **Surviving provisions.** Notwithstanding termination of this Agreement, the following provisions shall survive the termination of this Agreement: 3.3, 3.5, 7, 9, 11.6-11.7, 12, and 13.
+
+## 12. Limitation of liability
+
+12.1 Except with respect to damages arising from the gross negligence or intentional or wilful misconduct of Mediatool, Mediatool’s aggregated and total liability under this Agreement shall be limited to direct damages and shall not exceed      20 percent of the accumulated Service Fees paid by Customer during the twelve (12) months preceding the relevant cause of action.
+
+12.2 A Party shall be relieved from the liability for a failure to perform a certain obligation under this Agreement, if the failure is due to a circumstance that is outside a Party’s control and that affects the fulfilment of the obligation. The obligation shall be fulfilled in the agreed manner as soon as the obstacle has ended. The following events are considered such grounds for exemption, which include but are not limited to; actions by public authorities, new or amended legislation, delays from subcontractors, labour disputes or other circumstances that a Party cannot influence (force majeure).
+
+## 13. Governing Law and disputes
+
+13.1 This Agreement shall be construed in accordance with, and governed by, the laws of Sweden, excluding its conflict of law principles providing for the application of the laws of any other jurisdiction.
+
+13.2 Any dispute, controversy or claim arising out of or in connection with this Agreement, or the breach, termination or invalidity thereof, shall be settled by Swedish courts with Stockholm district court as the court of first instance.
+
+## 14. General
+
+14.1 **Insurance. **During the Term and for 12 months thereafter, Mediatool agrees that it shall, carry and maintain appropriate insurance coverage. Upon Customer’s request Mediatool shall provide its insurance certificate to Customer.
+
+14.2 **Publicity.** Customer hereby grant Mediatool the right to use Customer’s name (including logo and trademarks) as customer reference in marketing materials and on Mediatool’s website. Customer may revoke this right at any time by providing Mediatool a written notice whereby Mediatool must without undue delay remove such customer reference from marketing materials including the website.
+
+14.3 **Assignment**. Customer may not assign or transfer any of its rights or obligations under the Agreement to a third party without the prior written consent of Mediatool.
+
+14.4 **Entire agreement**. This Agreement shall contain the entire agreement and understanding between the Parties hereto with respect to the subject matter hereof.
+
+14.5 **Severability**. If any provision of this Agreement or the application of it is found or held to be invalid or unenforceable in whole or in part in any jurisdiction in which this Agreement is being performed, the remainder of this Agreement shall be valid and enforceable and the Parties shall in good faith seek to amend such provisions and thereby this Agreement in order to give effect to, so far as is possible, the spirit of this Agreement and to achieve the purposes intended by the Parties.
+
+14.6 **Changes**. This Agreement may only be amended, changed, or modified by an instrument in writing duly executed by the Parties.
+
+14.7 **Good Faith**. The Parties agree that they shall cooperate and work together in good faith in their performance of the Agreement.
+
+14.8 **Headings.** Headings are intended for reference only and shall have no effect on the meaning of any provision of the Agreement.
+
+14.9 **Notices.** Unless otherwise provided in the Agreement, any notice shall be in writing and shall be sufficiently given if delivered personally, or if transmitted by e-mail where the other party confirms the recipient of such e-mail by a reply, or if transmitted by facsimile with an original signed copy delivered personally within twenty-four hours thereafter, or four days after mailed by prepaid registered post addressed to parties at their respective addresses set forth in the Order Confirmation or at such other address as is specified by notice.
+
+## APPENDIX A
+
+### STANDARD CONTRACTUAL CLAUSES FOR PROCESSING PERSONAL DATA, ARTICLE 28(7) GDPR
+
+**_(Controller to processor – applicable when Customer Data contains personal data)_**
+
+### SECTION I
+
+_Clause 1_
+
+**_Purpose and scope_**
+
+1. The purpose of these Standard Contractual Clauses (the Clauses) is to ensure compliance with Article 28(3) and (4) of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+2. The controllers and processors listed in Annex I have agreed to these Clauses in order to ensure compliance with Article 28(3) and (4) of Regulation (EU) 2016/679 and/or Article 29 (3) and (4) Regulation (EU) 2018/1725.
+3. These Clauses apply to the processing of personal data as specified in Annex II.
+4. Annexes I to IV are an integral part of the Clauses.
+5. These Clauses are without prejudice to obligations to which the controller is subject by virtue of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.
+6. These Clauses do not by themselves ensure compliance with obligations related to international transfers in accordance with Chapter V of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.
+
+_Clause 2_
+
+**_Invariability of the Clauses_**
+
+1. The Parties undertake not to modify the Clauses, except for adding information to the Annexes or updating information in them.
+2. This does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a broader contract, or from adding other clauses or additional safeguards provided that they do not directly or indirectly contradict the Clauses or detract from the fundamental rights or freedoms of data subjects.
+
+_Clause 3_
+
+**_Interpretation_**
+
+1. Where these Clauses use the terms defined in Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 respectively, those terms shall have the same meaning as in that Regulation.
+2. These Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 respectively.
+3. These Clauses shall not be interpreted in a way that runs counter to the rights and obligations provided for in Regulation (EU) 2016/679 / Regulation (EU) 2018/1725 or in a way that prejudices the fundamental rights or freedoms of the data subjects.
+
+_Clause 4_
+
+**_Hierarchy_**
+
+In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties existing at the time when these Clauses are agreed or entered into thereafter, these Clauses shall prevail.
+
+_Clause 5_
+
+**_Docking Clause_**
+
+1. Any entity that is not a Party to these Clauses may, with the agreement of all the Parties, accede to these Clauses at any time as a controller or a processor by completing the Annexes and signing Annex I.
+2. Once the Annexes in (a) are completed and signed, the acceding entity shall be treated as a Party to these Clauses and have the rights and obligations of a controller or a processor, in accordance with its designation in Annex I.
+3. The acceding entity shall have no rights or obligations resulting from these Clauses from the period prior to becoming a Party.
+
+### SECTION II – OBLIGATIONS OF THE PARTIES
+
+_Clause 6_
+
+**_Description of processing(s)_**
+
+The details of the processing operations, in particular the categories of personal data and the purposes of processing for which the personal data is processed on behalf of the controller, are specified in Annex II.
+
+_Clause 7_
+
+**_Obligations of the Parties_**
+
+**7.1 Instructions**
+1. The processor shall process personal data only on documented instructions from the controller, unless required to do so by Union or Member State law to which the processor is subject. In this case, the processor shall inform the controller of that legal requirement before processing, unless the law prohibits this on important grounds of public interest. Subsequent instructions may also be given by the controller throughout the duration of the processing of personal data. These instructions shall always be documented.
+
+2. The processor shall immediately inform the controller if, in the processor’s opinion, instructions given by the controller infringe Regulation (EU) 2016/679 / Regulation (EU) 2018/1725 or the applicable Union or Member State data protection provisions.
+
+**7.2 Purpose limitation**
+
+The processor shall process the personal data only for the specific purpose(s) of the processing, as set out in Annex II, unless it receives further instructions from the controller.
+
+**7.3 Duration of the processing of personal data**
+
+Processing by the processor shall only take place for the duration specified in Annex II.
+
+**7.4 Security of processing**
+
+1. The processor shall at least implement the technical and organisational measures specified in Annex III to ensure the security of the personal data. This includes protecting the data against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access to the data (personal data breach). In assessing the appropriate level of security, the Parties shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purposes of processing and the risks involved for the data subjects.
+
+2. The processor shall grant access to the personal data undergoing processing to members of its personnel only to the extent strictly necessary for implementing, managing and monitoring of the contract. The processor shall ensure that persons authorised to process the personal data received have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+
+**7.5 Sensitive data**
+
+If the processing involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a person’s sex life or sexual orientation, or data relating to criminal convictions and offences (“sensitive data”), the processor shall apply specific restrictions and/or additional safeguards.
+
+**7.6 Documentation and compliance**
+
+1. The Parties shall be able to demonstrate compliance with these Clauses.
+
+2. The processor shall deal promptly and adequately with inquiries from the controller about the processing of data in accordance with these Clauses.
+
+3. The processor shall make available to the controller all information necessary to demonstrate compliance with the obligations that are set out in these Clauses and stem directly from Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725. At the controller’s request, the processor shall also permit and contribute to audits of the processing activities covered by these Clauses, at reasonable intervals or if there are indications of non-compliance. In deciding on a review or an audit, the controller may take into account relevant certifications held by the processor.
+
+4. The controller may choose to conduct the audit by itself or mandate an independent auditor. Audits may also include inspections at the premises or physical facilities of the processor and shall, where appropriate, be carried out with reasonable notice.
+
+5. The Parties shall make the information referred to in this Clause, including the results of any audits, available to the competent supervisory authority/ies on request.
+
+**7.7 Use of sub-processors**
+
+1. The processor has the controller’s general authorisation for the engagement of sub-processors from an agreed list. The processor shall specifically inform in writing the controller of any intended changes of that list through the addition or replacement of sub-processors at least two weeks in advance, thereby giving the controller sufficient time to be able to object to such changes prior to the engagement of the concerned sub-processor(s). The processor shall provide the controller with the information necessary to enable the controller to exercise the right to object.
+
+2. Where the processor engages a sub-processor for carrying out specific processing activities (on behalf of the controller), it shall do so by way of a contract which imposes on the sub-processor, in substance, the same data protection obligations as the ones imposed on the data processor in accordance with these Clauses. The processor shall ensure that the sub-processor complies with the obligations to which the processor is subject pursuant to these Clauses and to Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.
+
+3. At the controller’s request, the processor shall provide a copy of such a sub-processor agreement and any subsequent amendments to the controller. To the extent necessary to protect business secret or other confidential information, including personal data, the processor may redact the text of the agreement prior to sharing the copy.
+
+4. The processor shall remain fully responsible to the controller for the performance of the sub-processor’s obligations in accordance with its contract with the processor. The processor shall notify the controller of any failure by the sub-processor to fulfil its contractual obligations.
+
+5. The processor shall agree a third party beneficiary clause with the sub-processor whereby - in the event the processor has factually disappeared, ceased to exist in law or has become insolvent - the controller shall have the right to terminate the sub-processor contract and to instruct the sub-processor to erase or return the personal data.
+
+**7.8 International transfers**
+
+1. Any transfer of data to a third country or an international organisation by the processor shall be done only on the basis of documented instructions from the controller or in order to fulfil a specific requirement under Union or Member State law to which the processor is subject and shall take place in compliance with Chapter V of Regulation (EU) 2016/679 or Regulation (EU) 2018/1725.
+
+2. The controller agrees that where the processor engages a sub-processor in accordance with Clause 7.7. for carrying out specific processing activities (on behalf of the controller) and those processing activities involve a transfer of personal data within the meaning of Chapter V of Regulation (EU) 2016/679, the processor and the sub-processor can ensure compliance with Chapter V of Regulation (EU) 2016/679 by using standard contractual clauses adopted by the Commission in accordance with of Article 46(2) of Regulation (EU) 2016/679, provided the conditions for the use of those standard contractual clauses are met.
+
+_Clause 8_
+
+**_Assistance to the controller_**
+
+1. The processor shall promptly notify the controller of any request it has received from the data subject. It shall not respond to the request itself, unless authorised to do so by the controller.
+
+2. The processor shall assist the controller in fulfilling its obligations to respond to data subjects’ requests to exercise their rights, taking into account the nature of the processing. In fulfilling its obligations in accordance with (a) and (b), the processor shall comply with the controller’s instructions
+
+3. In addition to the processor’s obligation to assist the controller pursuant to Clause 8(b), the processor shall furthermore assist the controller in ensuring compliance with the following obligations, taking into account the nature of the data processing and the information available to the processor:
+    1. the obligation to carry out an assessment of the impact of the envisaged processing operations on the protection of personal data (a ‘data protection impact assessment’) where a type of processing is likely to result in a high risk to the rights and freedoms of natural persons;
+
+    2. the obligation to consult the competent supervisory authority/ies prior to processing where a data protection impact assessment indicates that the processing would result in a high risk in the absence of measures taken by the controller to mitigate the risk;
+
+    3. the obligation to ensure that personal data is accurate and up to date, by informing the controller without delay if the processor becomes aware that the personal data it is processing is inaccurate or has become outdated;
+
+    4. the obligations in Article 32 Regulation (EU) 2016/679.
+
+4. The Parties shall set out in Annex III the appropriate technical and organisational measures by which the processor is required to assist the controller in the application of this Clause as well as the scope and the extent of the assistance required.
+
+_Clause 9_
+
+**_Notification of personal data breach_**
+
+In the event of a personal data breach, the processor shall cooperate with and assist the controller for the controller to comply with its obligations under Articles 33 and 34 Regulation (EU) 2016/679 or under Articles 34 and 35 Regulation (EU) 2018/1725, where applicable, taking into account the nature of processing and the information available to the processor.
+
+**9.1 Data breach concerning data processed by the controller**
+
+In the event of a personal data breach concerning data processed by the controller, the processor shall assist the controller:
+
+1. in notifying the personal data breach to the competent supervisory authority/ies, without undue delay after the controller has become aware of it, where relevant/(unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons);
+
+2. in obtaining the following information which, pursuant to Article 33(3) Regulation (EU) 2016/679, shall be stated in the controller’s notification, and must at least include:
+
+    1. the nature of the personal data including where possible, the categories and approximate number of data subjects concerned and the categories and approximate number of personal data records concerned;
+
+    2. the likely consequences of the personal data breach;
+
+    3. the measures taken or proposed to be taken by the controller to address the personal data breach, including, where appropriate, measures to mitigate its possible adverse effects.
+
+Where, and insofar as, it is not possible to provide all this information at the same time, the initial notification shall contain the information then available and further information shall, as it becomes available, subsequently be provided without undue delay.
+
+3. in complying, pursuant to Article 34 Regulation (EU) 2016/679, with the obligation to communicate without undue delay the personal data breach to the data subject, when the personal data breach is likely to result in a high risk to the rights and freedoms of natural persons.
+
+**9.2 Data breach concerning data processed by the processor**
+
+In the event of a personal data breach concerning data processed by the processor, the processor shall notify the controller without undue delay after the processor having become aware of the breach. Such notification shall contain, at least:
+
+1. a description of the nature of the breach (including, where possible, the categories and approximate number of data subjects and data records concerned);
+
+2. the details of a contact point where more information concerning the personal data breach can be obtained;
+
+3. its likely consequences and the measures taken or proposed to be taken to address the breach, including to mitigate its possible adverse effects.
+
+Where, and insofar as, it is not possible to provide all this information at the same time, the initial notification shall contain the information then available and further information shall, as it becomes available, subsequently be provided without undue delay.
+
+The Parties shall set out in Annex III all other elements to be provided by the processor when assisting the controller in the compliance with the controller’s obligations under Articles 33 and 34 of Regulation (EU) 2016/679.
+
+### <span style="text-decoration:underline;">SECTION III – FINAL PROVISIONS</span>
+
+_Clause 10_
+
+**_Non-compliance with the Clauses and termination_**
+
+1. Without prejudice to any provisions of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725, in the event that the processor is in breach of its obligations under these Clauses, the controller may instruct the processor to suspend the processing of personal data until the latter complies with these Clauses or the contract is terminated. The processor shall promptly inform the controller in case it is unable to comply with these Clauses, for whatever reason.
+
+2. The controller shall be entitled to terminate the contract insofar as it concerns processing of personal data in accordance with these Clauses if:
+
+    1. the processing of personal data by the processor has been suspended by the controller pursuant to point (a) and if compliance with these Clauses is not restored within a reasonable time and in any event within one month following suspension;
+
+    2. the processor is in substantial or persistent breach of these Clauses or its obligations under Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725;
+
+    3. the processor fails to comply with a binding decision of a competent court or the competent supervisory authority/ies regarding its obligations pursuant to these Clauses or to Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.
+
+3. The processor shall be entitled to terminate the contract insofar as it concerns processing of personal data under these Clauses where, after having informed the controller that its instructions infringe applicable legal requirements in accordance with Clause 7.1 (b), the controller insists on compliance with the instructions.
+
+4. Following termination of the contract, the processor shall, at the choice of the controller, delete all personal data processed on behalf of the controller and certify to the controller that it has done so, or, return all the personal data to the controller and delete existing copies unless Union or Member State law requires storage of the personal data. Until the data is deleted or returned, the processor shall continue to ensure compliance with these Clauses.
+
+### <span style="text-decoration:underline;">ANNEX I LIST OF PARTIES</span>
+
+**Controller(s):**
+
+1. Name: Customer as specified in in the Agreement and /or the applicable SOW
+
+    Address: As specified in in the Agreement and /or the applicable SOW
+
+    Contact person’s name, position and contact details: As specified in the Agreement or the applicable SOW.
+
+    Signature and accession date: The Parties agree that execution of the Agreement by the Controller and the Processor shall constitute execution of these Clauses by both parties as of the Effective Date.
+
+**Processor(s):**
+
+1. Name: Mediatool World W AB, 556790-6689
+
+    Address: As specified in the Agreement.
+
+    Contact person’s name, position and contact details:
+
+    Joakim Landberg, CISO, joakim@mediatool.com
+
+    Signature and accession date: The Parties agree that execution of the Agreement by the Controller and the Processor shall constitute execution of these Clauses by both parties as of the Effective Date.
+
+### <span style="text-decoration:underline;">ANNEX II: DESCRIPTION OF THE PROCESSING</span>
+
+_Categories of data subjects whose personal data is processed_
+
+Data subjects include the individuals about whom data is provided in the Customer Data (as defined in the Agreement) or otherwise entered to the media planning tool (i.e., the Service as defined in the Agreement) by (or at the direction of) the Controller or the Controller’s Users.
+
+_Categories of personal data processed_
+
+The personal data, <span style="text-decoration:underline;">if any</span>, included in the Customer Data which the Controller imports/enter/add to the Service; e.g. indirectly identifiable identification numbers, online identifiers, names, or contact details.
+
+_Sensitive data processed (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures._
+
+N/A (Controller not allowed to provide Processor with special categories of personal data)
+
+_Nature of the processing and purpose(s) for which the personal data is processed on behalf of the controller_
+
+Personal data will be processed by the Processor to provide / give access to, secure and monitor the Mediatool Software and the Service in accordance with the Agreement, which includes collection; logging; organization; structuring; storage; adaptation or alteration; use; disclosure (to sub-processors); pseudonymization; anonymization; and erasure.
+
+The Controller’s purposes: to manage its media management process, to plan, execute, tracking and optimizing media and marketing campaigns.
+
+Personal data will be processed by the Processor to provide / give access to, secure and monitor the Mediatool Software and the Service in accordance with the Agreement._ _
+
+_Duration of the processing_
+
+During the term of the Agreement and six months thereafter.
+
+### <span style="text-decoration:underline;">ANNEX III TECHNICAL AND ORGANISATIONAL MEASURES INCLUDING TECHNICAL AND ORGANISATIONAL MEASURES TO ENSURE THE SECURITY OF THE DATA</span>
+
+The security of our customers' data is a top priority at Mediatool. Safeguarding data is a critical responsibility we have to our customers, and we work hard to maintain that trust. We aim to be transparent about our security practices.
+
+**Corporate security**
+
+Mediatool’s employees are required to study and follow internal security policies and standards. Before access to any internal system is granted, personnel must agree to confidentiality terms and attend security training. This training covers device security, privacy, physical security and incident reporting etc.
+
+All employees are bound to our policy regarding customer data as specified by our terms and conditions, [http://www.mediatool.com/termsandconditions](http://www.mediatool.com/termsandconditions). Some employees such as developers or customer support staff, which might have elevated access to systems and customer data, receive additional training related to security.
+
+When an employee leaves the company all access to Mediatool systems is removed immediately.
+
+Mediatool performs background checks on all new hires including verification of the following:
+
+* Identity verification
+* References
+* Criminal records check
+
+**Access control**
+
+Mediatool adheres to the standard security principles of least privilege and role based-permission when provisioning access. Employees are only authorized to access data they explicitly need to in order to do their jobs. User access is reviewed regularly every quarter to ensure the access granted is still relevant for that specific user. When hired, employees might be granted access to a small number of internal corporate systems. Any additional access must be approved by the responsible manager while access to the production environment must be approved by the CSO.
+
+All systems used at Mediatool require users to authenticate. When applicable Mediatool employs multi-factor authentication for administrative access to all systems used internally. All Mediatool employees are required to use password managers to generate and securely store sufficiently complex passwords.
+
+**Customer data security**
+
+Preventing unauthorised access to customer data is a top priority at Mediatool. We continuously work to identify and mitigate security risks by implementing best practices.
+
+Mediatool’s customer data is hosted in our shared infrastructure. Mediatool uses Amazon Web Services (AWS) to host all services. This means our servers are located in secure data centers that offer state of the art physical protection and infrastructure. AWS meets all standard infrastructure compliance requirements, regarding availability, network protection and disaster recovery. AWS is responsible for restricting physical access to Mediatool’s systems to authorised personnel only. More information about Amazon’s compliance programs can be found at [https://aws.amazon.com/compliance/programs/](https://aws.amazon.com/compliance/programs/). Mediatool employees do not have physical access to AWS data centers, servers, network equipment or storage.
+
+All data in transit between Mediatool clients and servers is encrypted using strong encryption protocols. Mediatool supports the latest recommended secure ciphers suits to encrypt all traffic in transit (TLS 1.2 protocols, AES256-encryption) and can be used when supported by clients. We always follow the latest cryptographic recommendations and upgrade cipher suite choices when needed.
+
+All data at rest in Mediatool’s production environment is encrypted (using AES256-encryption). This includes production databases, file stores and backups.
+
+**Network and Server Security**
+
+In order to protect production data, Mediatool hosts testing and development environments in separate networks from the production infrastructure. All servers within the production infrastructure are hardened with all unnecessary ports disabled etc. A base configuration that follow CIS benchmark configuration guidelines is applied to all servers across the infrastructure.
+
+Public network access to Mediatool’s production environment is restricted and only a small number of servers are accessible from the Internet. Only network protocols that are essential for Mediatool to be able to provide its services are open on our production servers.
+
+Mediatool is the assigned administrator of its infrastructure on AWS and access is restricted to designated personnel in Mediatool’s operations team. Specific keys are required in order to access servers and keys are stored in a secure and encrypted location.
+
+For Intrusion detection and prevention activities (IDS/IPS), Mediatool logs, monitors and audits all system calls and has alerts in place for any system calls that could indicate intrusion.
+
+Mediatool undergoes annual penetration testing conducted by an independent third party security company. Mediatool provides the testers with an isolated replica of our production environment. No customer data is exposed through testing. A summary of penetration test findings are available for enterprise customers upon request.
+
+**Application security**
+
+**Two factor authentication**
+
+2FA adds an additional layer of security to Mediatool via a time based one-time password (TOTP). We encourage all organizations to use 2FA to secure data from intruders. Mediatool displays which users have 2FA enabled in the organization's user list.
+
+**Rest API authentication**
+
+An auth token is used for authentication when using the REST API. The token is passed using the authentication header and used to authenticate a user account with the API.
+
+**Role based access control**
+
+User access to their organizations on Mediatool is completely controlled by the customer’s admin users through a user/role settings page. From that page it's possible to assign/revoke roles (admin, editor, viewer) and also invite/remove users.
+
+Current roles we support by default:
+
+Admin - Full access to organization. Can invite users/grant permissions/modify data
+
+Editor - Can create/modify certain data.
+
+Viewer - Can read certain data.
+
+Restricted - A setting that can be applied to any above role. This restricts access to specific data. For example you can restrict access to data involving budget or other sensitive information that you don't want certain users to see or modify.
+
+**Application development security practices**
+
+Every member of the Mediatool team is very security minded. We know that every person and team using our services expect their data to be secure and confidential. Security is deeply integrated in our software development lifecycle (SDLC) and well known best practices are applied to every step. All production code is subject to the following coding policies:
+
+* The security risk of every new feature, functionality and design change is assessed by our development team. Risk analysis leverages both the development team’s experience and well known security guidelines such as OWASP top 10.
+
+* All code changes are audited with automated static analysis software such as linting.
+
+* All code changes are subject to manual peer-review for security vulnerabilities and code quality.
+
+* Automated testing. No code is deployed to production without passing a rigorous test suite that’s part of our continuous integration process.
+
+* Automated vulnerability scans. All used open source code is automatically scanned for vulnerabilities and licence compliance.
+
+* Use of libraries. We use updated, well known and well tested libraries, both in the front end and the back end applications.
+
+* Regular use of security assessments such as application-level penetration tests.
+
+* In house development. All development happens in-house following our development policies.
+
+**Data retention and Destruction**
+
+Mediatool will retain organization media data in accordance with the customer's instructions and as required by applicable law. Organization media data may be removed or obfuscated within 6 months after the organization account is closed, unless we’re explicitly instructed by the customer to remove the data immediately. Data can also be deleted via Mediatool’s REST API and through the UI.
+
+Personal data for users such as business email, name and phone number are retained for as long as the user account is active. Mediatool will handle this personal information in accordance with our Privacy Policy listed at [https://mediatool.com/cookies/](https://mediatool.com/cookies/)
+
+Mediatool’s hosting provider is responsible for ensuring that data is removed from disk in a responsible manner before they are repurposed.
+
+**Disaster Recovery**
+
+Mediatool uses different services deployed by our hosting provider in order to protect from a disaster that causes loss of connectivity, power infrastructure or other types of failures in the region where Mediatool’s production environment is hosted. To handle a disaster the production environment is duplicated across separate regions. A duplicate set of all production resources are kept in stand-by in order to provide availability to Mediatool’s services should a disaster occur. Production data is continuously replicated to this separate region in order to minimize data loss during a disaster. Additionally, a full backup copy of production data is taken daily and stored in a separate region from the production environment. Backups are tested every quarter to ensure they can be successfully restored.
+
+**Security incidents**
+
+Mediatool has an established incident response policy for handling potential security incidents. All security incidents are managed by the CSO and the security team. The policy defines the reporting, evaluation and mitigation process that takes place, as well as the classification scheme for incident severity. In the event of an incident, affected customers will be informed via email by the customer success team.
+
+### <span style="text-decoration:underline;">ANNEX IV: LIST OF SUB-PROCESSORS</span>
+
+<table>
+  <tr>
+   <td>Name
+   </td>
+   <td>Type of service
+   </td>
+   <td>Address
+   </td>
+   <td>Processing outside EU/EES
+   </td>
+  </tr>
+  <tr>
+   <td>Amazon web services
+   </td>
+   <td>Cloud infrastructure
+   </td>
+   <td>Amazon Web Services, Inc.
+P.O. Box 81226
+Seattle, WA 98108-1226 
+   </td>
+   <td>Yes.
+   </td>
+  </tr>
+  <tr>
+   <td>MongoDB Atlas
+   </td>
+   <td>General purpose database
+   </td>
+   <td>MongoDB Atlas
+<p>
+New York City
+1633 Broadway
+38th Floor
+New York, NY 10019
+United States
++1 866 237 8815
+   </td>
+   <td>Yes.
+   </td>
+  </tr>
+  <tr>
+   <td>ElasticCloud
+   </td>
+   <td>Text search and analytics database.
+   </td>
+   <td>ElasticCloud
+MOUNTAIN VIEW, CA
+800 West El Camino Real, Suite 350
+Mountain View, California 94040
+General +1 650 458 2620
+Sales +1 650 458 2625
+US Fed/SLED Sales
++ 1 202 759 9647
+   </td>
+   <td>Yes.
+   </td>
+  </tr>
+  <tr>
+   <td>Intercom 
+   </td>
+   <td>Help Center and in-app messaging/ tutorials.
+   </td>
+   <td>Intercom 
+<p>
+55 2nd Street, 4th Floor, San Francisco, CA 94105
+<p>
+<a href="mailto:info@intercom.com">info@intercom.com</a>
+   </td>
+   <td>Yes.
+   </td>
+  </tr>
+  <tr>
+   <td>Redis Labs
+   </td>
+   <td>General purpose key-value database.
+   </td>
+   <td>EMEA Headquarters
+<p>
+Tower 42 25 Old Broad St
+London EC2N 1HN, UK
+<p>
+Tel: +44 (0) 203-714-4944
+   </td>
+   <td>Yes.
+   </td>
+  </tr>
+</table>
+
+## APPENDIX B
+
+### STANDARD CONTRACTUAL CLAUSES FOR PERSONAL DATA TRANSFER MODULE 4
+
+**_(International transfer processor to controller – applicable when Mediatool is a Processor and Customer, or Customer’s Users, are located outside EU/EEA)_**
+
+### <span style="text-decoration:underline;">SECTION I</span>
+
+_Clause 1_
+
+**_Purpose and scope_**
+
+1. The purpose of these standard contractual clauses is to ensure compliance with the requirements of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) for the transfer of personal data to a third country.
+2. The Parties:
+    1. the natural or legal person(s), public authority/ies, agency/ies or other body/ies (hereinafter “entity/ies”) transferring the personal data, as listed in Annex I.A. (hereinafter each “data exporter”), and
+    2. the entity/ies in a third country receiving the personal data from the data exporter, directly or indirectly via another entity also Party to these Clauses, as listed in Annex I.A. (hereinafter each “data importer”)
+
+    have agreed to these standard contractual clauses (hereinafter: “Clauses”).
+
+3. These Clauses apply with respect to the transfer of personal data as specified in Annex I.B.
+
+4. The Appendix to these Clauses containing the Annexes referred to therein forms an integral part of these Clauses.
+
+_Clause 2_
+
+**_Effect and invariability of the Clauses_**
+
+1. These Clauses set out appropriate safeguards, including enforceable data subject rights and effective legal remedies, pursuant to Article 46(1) and Article 46 (2)(c) of Regulation (EU) 2016/679 and, with respect to data transfers from controllers to processors and/or processors to processors, standard contractual clauses pursuant to Article 28(7) of Regulation (EU) 2016/679, provided they are not modified, except to select the appropriate Module(s) or to add or update information in the Appendix. This does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a wider contract and/or to add other clauses or additional safeguards, provided that they do not contradict, directly or indirectly, these Clauses or prejudice the fundamental rights or freedoms of data subjects.
+
+2. These Clauses are without prejudice to obligations to which the data exporter is subject by virtue of Regulation (EU) 2016/679.
+
+_Clause 3_
+
+**_Third-party beneficiaries_**
+
+1. Data subjects may invoke and enforce these Clauses, as third-party beneficiaries, against the data exporter and/or data importer, with the following exceptions:
+    1. Clause 1, Clause 2, Clause 3, Clause 6, Clause 7;
+    2. Clause 8 - Clause 8.1 (b) and Clause 8.3(b);
+    3. Clause 9 – not applicable;
+    4. Clause 12 – not applicable;
+    5. Clause 13;
+    6. Clause 15.1(c), (d) and (e);
+    7. Clause 16(e);
+    8. Clause 18;
+
+2. Paragraph (a) is without prejudice to rights of data subjects under Regulation (EU) 2016/679.
+
+_Clause 4_
+
+**_Interpretation_**
+
+1. Where these Clauses use terms that are defined in Regulation (EU) 2016/679, those terms shall have the same meaning as in that Regulation.
+
+2. These Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679.
+
+3. These Clauses shall not be interpreted in a way that conflicts with rights and obligations provided for in Regulation (EU) 2016/679.
+
+_Clause 5_
+
+**_Hierarchy_**
+
+In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties, existing at the time these Clauses are agreed or entered into thereafter, these Clauses shall prevail.
+
+_Clause 6_
+
+**_Description of the transfer(s)_**
+
+The details of the transfer(s), and in particular the categories of personal data that are transferred and the purpose(s) for which they are transferred, are specified in Annex I.B.
+
+_Clause 7_
+
+**_Docking clause_**
+
+1. An entity that is not a Party to these Clauses may, with the agreement of the Parties, accede to these Clauses at any time, either as a data exporter or as a data importer, by completing the Appendix and signing Annex I.A.
+
+2. Once it has completed the Appendix and signed Annex I.A, the acceding entity shall become a Party to these Clauses and have the rights and obligations of a data exporter or data importer in accordance with its designation in Annex I.A.
+
+3. The acceding entity shall have no rights or obligations arising under these Clauses from the period prior to becoming a Party.
+
+### <span style="text-decoration:underline;">SECTION II – OBLIGATIONS OF THE PARTIES</span>
+
+_Clause 8_
+
+**_Data protection safeguards_**
+
+The data exporter warrants that it has used reasonable efforts to determine that the data importer is able, through the implementation of appropriate technical and organisational measures, to satisfy its obligations under these Clauses.
+
+**8.1	Instructions**
+
+1. The data exporter shall process the personal data only on documented instructions from the data importer acting as its controller.
+
+2. The data exporter shall immediately inform the data importer if it is unable to follow those instructions, including if such instructions infringe Regulation (EU) 2016/679 or other Union or Member State data protection law.
+
+3. The data importer shall refrain from any action that would prevent the data exporter from fulfilling its obligations under Regulation (EU) 2016/679, including in the context of sub-processing or as regards cooperation with competent supervisory authorities.
+
+4. After the end of the provision of the processing services, the data exporter shall, at the choice of the data importer, delete all personal data processed on behalf of the data importer and certify to the data importer that it has done so, or return to the data importer all personal data processed on its behalf and delete existing copies.
+
+**8.2	Security of processing**
+
+1. The Parties shall implement appropriate technical and organisational measures to ensure the security of the data, including during transmission, and protection against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access (hereinafter “personal data breach”). In assessing the appropriate level of security, they shall take due account of the state of the art, the costs of implementation, the nature of the personal data, the nature, scope, context and purpose(s) of processing and the risks involved in the processing for the data subjects, and in particular consider having recourse to encryption or pseudonymisation, including during transmission, where the purpose of processing can be fulfilled in that manner.
+
+2. The data exporter shall assist the data importer in ensuring appropriate security of the data in accordance with paragraph (a). In case of a personal data breach concerning the personal data processed by the data exporter under these Clauses, the data exporter shall notify the data importer without undue delay after becoming aware of it and assist the data importer in addressing the breach.
+
+3. The data exporter shall ensure that persons authorised to process the personal data   have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+
+**8.3	Documentation and compliance**
+
+1. The Parties shall be able to demonstrate compliance with these Clauses.
+
+2. The data exporter shall make available to the data importer all information necessary to demonstrate compliance with its obligations under these Clauses and allow for and contribute to audits.
+
+_Clause 9 – not applicable_
+
+_Clause 10_
+
+**_Data subject rights_**
+
+The Parties shall assist each other in responding to enquiries and requests made by data subjects under the local law applicable to the data importer or, for data processing by the data exporter in the EU, under Regulation (EU) 2016/679.
+
+_Clause 11_
+
+**_Redress_**
+
+1. The data importer shall inform data subjects in a transparent and easily accessible format, through individual notice or on its website, of a contact point authorised to handle complaints. It shall deal promptly with any complaints it receives from a data subject.
+
+_Clause 12_
+
+**_Liability_**
+
+1. Each Party shall be liable to the other Party/ies for any damages it causes the other Party/ies by any breach of these Clauses.
+
+2. Each Party shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages that the Party causes the data subject by breaching the third-party beneficiary rights under these Clauses. This is without prejudice to the liability of the data exporter under Regulation (EU) 2016/679.
+
+3. Where more than one Party is responsible for any damage caused to the data subject as a result of a breach of these Clauses, all responsible Parties shall be jointly and severally liable and the data subject is entitled to bring an action in court against any of these Parties.
+
+4. The Parties agree that if one Party is held liable under paragraph (c), it shall be entitled to claim back from the other Party/ies that part of the compensation corresponding to its / their responsibility for the damage.
+
+5. The data importer may not invoke the conduct of a processor or sub-processor to avoid its own liability.
+
+_Clause 13 – not applicable_
+
+### <span style="text-decoration:underline;">SECTION III – LOCAL LAWS AND OBLIGATIONS IN CASE OF ACCESS BY PUBLIC AUTHORITIES</span>
+
+_Clause 14_
+
+**_Local laws and practices affecting compliance with the Clauses_**
+
+_(where the EU processor combines the personal data received from the third country-controller with personal data collected by the processor in the EU)_
+
+1. The Parties warrant that they have no reason to believe that the laws and practices in the third country of destination applicable to the processing of the personal data by the data importer, including any requirements to disclose personal data or measures authorising access by public authorities, prevent the data importer from fulfilling its obligations under these Clauses. This is based on the understanding that laws and practices that respect the essence of the fundamental rights and freedoms and do not exceed what is necessary and proportionate in a democratic society to safeguard one of the objectives listed in Article 23(1) of Regulation (EU) 2016/679, are not in contradiction with these Clauses.
+
+2. The Parties declare that in providing the warranty in paragraph (a), they have taken due account in particular of the following elements:
+
+  1. the specific circumstances of the transfer, including the length of the processing chain, the number of actors involved and the transmission channels used; intended onward transfers; the type of recipient; the purpose of processing; the categories and format of the transferred personal data; the economic sector in which the transfer occurs; the storage location of the data transferred;
+
+  2. the laws and practices of the third country of destination– including those requiring the disclosure of data to public authorities or authorising access by such authorities – relevant in light of the specific circumstances of the transfer, and the applicable limitations and safeguards;
+
+  3. any relevant contractual, technical or organisational safeguards put in place to supplement the safeguards under these Clauses, including measures applied during transmission and to the processing of the personal data in the country of destination.
+
+3. The data importer warrants that, in carrying out the assessment under paragraph (b), it has made its best efforts to provide the data exporter with relevant information and agrees that it will continue to cooperate with the data exporter in ensuring compliance with these Clauses.
+
+4. The Parties agree to document the assessment under paragraph (b) and make it available to the competent supervisory authority on request.
+
+5. The data importer agrees to notify the data exporter promptly if, after having agreed to these Clauses and for the duration of the contract, it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under paragraph (a), including following a change in the laws of the third country or a measure (such as a disclosure request) indicating an application of such laws in practice that is not in line with the requirements in paragraph (a).
+
+6. Following a notification pursuant to paragraph (e), or if the data exporter otherwise has reason to believe that the data importer can no longer fulfil its obligations under these Clauses, the data exporter shall promptly identify appropriate measures (e.g. technical or organisational measures to ensure security and confidentiality) to be adopted by the data exporter and/or data importer to address the situation. The data exporter shall suspend the data transfer if it considers that no appropriate safeguards for such transfer can be ensured, or if instructed by the competent supervisory authority to do so. In this case, the data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses. If the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise. Where the contract is terminated pursuant to this Clause, Clause 16(d) and (e) shall apply.
+
+_Clause 15_
+
+**_Obligations of the data importer in case of access by public authorities_**
+
+_(where the EU processor combines the personal data received from the third country-controller with personal data collected by the processor in the EU)_
+
+
+**15.1	Notification**
+
+
+
+1. The data importer agrees to notify the data exporter and, where possible, the data subject promptly (if necessary with the help of the data exporter) if it:
+
+    1. receives a legally binding request from a public authority, including judicial authorities, under the laws of the country of destination for the disclosure of personal data transferred pursuant to these Clauses; such notification shall include information about the personal data requested, the requesting authority, the legal basis for the request and the response provided; or
+    2. becomes aware of any direct access by public authorities to personal data transferred pursuant to these Clauses in accordance with the laws of the country of destination; such notification shall include all information available to the importer.
+
+2. If the data importer is prohibited from notifying the data exporter and/or the data subject under the laws of the country of destination, the data importer agrees to use its best efforts to obtain a waiver of the prohibition, with a view to communicating as much information as possible, as soon as possible. The data importer agrees to document its best efforts in order to be able to demonstrate them on request of the data exporter.
+
+3. Where permissible under the laws of the country of destination, the data importer agrees to provide the data exporter, at regular intervals for the duration of the contract, with as much relevant information as possible on the requests received (in particular, number of requests, type of data requested, requesting authority/ies, whether requests have been challenged and the outcome of such challenges, etc.).
+
+4. The data importer agrees to preserve the information pursuant to paragraphs (a) to (c) for the duration of the contract and make it available to the competent supervisory authority on request.
+
+5. Paragraphs (a) to (c) are without prejudice to the obligation of the data importer pursuant to Clause 14(e) and Clause 16 to inform the data exporter promptly where it is unable to comply with these Clauses.
+
+**15.2	Review of legality and data minimisation**
+
+1. The data importer agrees to review the legality of the request for disclosure, in particular whether it remains within the powers granted to the requesting public authority, and to challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful under the laws of the country of destination, applicable obligations under international law and principles of international comity. The data importer shall, under the same conditions, pursue possibilities of appeal. When challenging a request, the data importer shall seek interim measures with a view to suspending the effects of the request until the competent judicial authority has decided on its merits. It shall not disclose the personal data requested until required to do so under the applicable procedural rules. These requirements are without prejudice to the obligations of the data importer under Clause 14(e).
+
+2. The data importer agrees to document its legal assessment and any challenge to the request for disclosure and, to the extent permissible under the laws of the country of destination, make the documentation available to the data exporter. It shall also make it available to the competent supervisory authority on request.
+
+3. The data importer agrees to provide the minimum amount of information permissible when responding to a request for disclosure, based on a reasonable interpretation of the request.
+
+### <span style="text-decoration:underline;">SECTION IV – FINAL PROVISIONS</span>
+
+_Clause 16_
+
+**_Non-compliance with the Clauses and termination_**
+
+1. The data importer shall promptly inform the data exporter if it is unable to comply with these Clauses, for whatever reason.
+
+2. In the event that the data importer is in breach of these Clauses or unable to comply with these Clauses, the data exporter shall suspend the transfer of personal data to the data importer until compliance is again ensured or the contract is terminated. This is without prejudice to Clause 14(f).
+
+3. The data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses, where:
+
+  1. the data exporter has suspended the transfer of personal data to the data importer pursuant to paragraph (b) and compliance with these Clauses is not restored within a reasonable time and in any event within one month of suspension;
+
+  2. the data importer is in substantial or persistent breach of these Clauses; or
+
+  3. the data importer fails to comply with a binding decision of a competent court or supervisory authority regarding its obligations under these Clauses.
+
+In these cases, it shall inform the competent supervisory authority of such non-compliance. Where the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise.
+
+4. Personal data collected by the data exporter in the EU that has been transferred prior to the termination of the contract pursuant to paragraph (c) shall immediately be deleted in its entirety, including any copy thereof. The data importer shall certify the deletion of the data to the data exporter. Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses. In case of local laws applicable to the data importer that prohibit the return or deletion of the transferred personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process the data to the extent and for as long as required under that local law.
+
+5. Either Party may revoke its agreement to be bound by these Clauses where (i) the European Commission adopts a decision pursuant to Article 45(3) of Regulation (EU) 2016/679 that covers the transfer of personal data to which these Clauses apply; or (ii) Regulation (EU) 2016/679 becomes part of the legal framework of the country to which the personal data is transferred. This is without prejudice to other obligations applying to the processing in question under Regulation (EU) 2016/679.
+
+_Clause 17_
+
+**_Governing law_**
+
+These Clauses shall be governed by the law of a country allowing for third-party beneficiary rights. The Parties agree that this shall be the law of Sweden.
+
+_Clause 18_
+
+**_Choice of forum and jurisdiction_**
+
+Any dispute arising from these Clauses shall be resolved by the courts of Sweden.
+
+### <span style="text-decoration:underline;">ANNEX I </span>
+
+**A. LIST OF PARTIES**
+
+**Data exporter(s):**
+
+1. Name: Mediatool World W AB, 556790-6689
+
+    Address: As specified in the Agreement.
+
+    Contact person’s name, position and contact details: Joakim Landberg, joakim@mediatool.com
+
+    Activities relevant to the data transferred under these Clauses: The data exporter provides the Services to the data importer in accordance with the Agreement.
+
+    Signature and accession date: The Parties agree that execution of the Agreement by the Controller and the Processor shall constitute execution of these Clauses by both parties as of the Effective Date.
+
+    Role (controller/processor): Processor
+
+**Data importer(s):**
+
+1. Name: Customer as specified in in the Agreement or the applicable SOW
+
+    Address: As specified in in the Agreement or the applicable SOW
+
+    Contact person’s name, position and contact details: As specified in in the Agreement or the applicable SOW.
+
+    Activities relevant to the data transferred under these Clauses: The data exporter provides the Services to the data importer in accordance with the Agreement.
+
+    Signature and accession date: The Parties agree that execution of the Agreement by the Controller and the Processor shall constitute execution of these Clauses by both parties as of the Effective Date.
+
+    Role (controller/processor): Controller and/or processor, as applicable.
+
+**B. DESCRIPTION OF TRANSFER**
+
+_Categories of data subjects whose personal data is transferred_
+
+The individuals about whom data is provided in the Customer Data or otherwise entered into to the Services by (or at the direction of) the data importer or the data importer’s Users.
+
+_Categories of personal data transferred_
+
+The personal data, <span style="text-decoration:underline;">if any</span>, included in the Customer Data which the data importer imports/enter/add to the Service; e.g. indirectly identifiable identification numbers, online identifiers, names, or contact details.
+
+_Sensitive data processed (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures._
+
+N/A
+
+_The frequency of the transfer (e.g. whether the data is transferred on a one-off or continuous basis)._
+
+Continuous
+
+_Nature of the processing_
+
+The personal data that is subject to the data transfer is stored and processed by data exporter in the Mediatool Software / the Service on servers located within the EU/EEA. Consequently, the data importer’s use of the data exporter's software / Service entails a transfer of personal data from the EU/EEA to a third country.
+
+Personal data will be processed by the data exporter to provide, secure and monitor the Service in accordance with the Agreement between the Parties, which includes collection; logging; organization; structuring; storage; adaptation or alteration; use; disclosure; pseudonymization; anonymization; and erasure.
+
+_Purpose(s) of the data transfer and further processing_
+
+The purpose of the transfer and the further processing is to provide data importer with the media planning tool (i.e. the Service) in accordance with the Agreement.
+
+_The period for which the personal data will be retained, or, if that is not possible, the criteria used to determine that period_
+
+The transfer will be carried out during the term of the Agreement and six months thereafter.
+
+## APPENDIX C
+
+### STANDARD CONTRACTUAL CLAUSES FOR PERSONAL DATA TRANSFER
+
+**_(International transfer controller to controller – applicable when Customer, or Customer’s Users, are located outside EU/EEA)_**
+
+### <span style="text-decoration:underline;">SECTION I</span>
+
+_Clause 1_
+
+**_Purpose and scope_**
+
+1. The purpose of these standard contractual clauses is to ensure compliance with the requirements of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) for the transfer of personal data to a third country.
+2. The Parties:
+
+    1. the natural or legal person(s), public authority/ies, agency/ies or other body/ies (hereinafter “entity/ies”) transferring the personal data, as listed in Annex I.A. (hereinafter each “data exporter”), and
+
+    2. the entity/ies in a third country receiving the personal data from the data exporter, directly or indirectly via another entity also Party to these Clauses, as listed in Annex I.A. (hereinafter each “data importer”)
+
+    have agreed to these standard contractual clauses (hereinafter: “Clauses”).
+
+3. These Clauses apply with respect to the transfer of personal data as specified in Annex I.B.
+
+4. The Appendix to these Clauses containing the Annexes referred to therein forms an integral part of these Clauses.
+
+_Clause 2_
+
+**_Effect and invariability of the Clauses_**
+
+1. These Clauses set out appropriate safeguards, including enforceable data subject rights and effective legal remedies, pursuant to Article 46(1) and Article 46 (2)(c) of Regulation (EU) 2016/679 and, with respect to data transfers from controllers to processors and/or processors to processors, standard contractual clauses pursuant to Article 28(7) of Regulation (EU) 2016/679, provided they are not modified, except to select the appropriate Module(s) or to add or update information in the Appendix. This does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a wider contract and/or to add other clauses or additional safeguards, provided that they do not contradict, directly or indirectly, these Clauses or prejudice the fundamental rights or freedoms of data subjects.
+
+2. These Clauses are without prejudice to obligations to which the data exporter is subject by virtue of Regulation (EU) 2016/679.
+
+_Clause 3_
+
+**_Third-party beneficiaries_**
+
+1. Data subjects may invoke and enforce these Clauses, as third-party beneficiaries, against the data exporter and/or data importer, with the following exceptions:
+    1. Clause 1, Clause 2, Clause 3, Clause 6, Clause 7;
+    2. Clause 8.5 (e) and Clause 8.9(b);
+    3. Clause 9 – not applicable;
+    4. Clause 12(a) and (d);
+    5. Clause 13;
+    6. Clause 15.1(c), (d) and (e);
+    7. Clause 16(e);
+    8. Clause 18(a) and (b).
+2. Paragraph (a) is without prejudice to rights of data subjects under Regulation (EU) 2016/679.
+
+_Clause 4_
+
+**_Interpretation_**
+
+1. Where these Clauses use terms that are defined in Regulation (EU) 2016/679, those terms shall have the same meaning as in that Regulation.
+
+2. These Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679.
+
+3. These Clauses shall not be interpreted in a way that conflicts with rights and obligations provided for in Regulation (EU) 2016/679.
+
+_Clause 5_
+
+**_Hierarchy_**
+
+In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties, existing at the time these Clauses are agreed or entered into thereafter, these Clauses shall prevail.
+
+_Clause 6_
+
+**_Description of the transfer(s)_**
+
+The details of the transfer(s), and in particular the categories of personal data that are transferred and the purpose(s) for which they are transferred, are specified in Annex I.B.
+
+_Clause 7_
+
+**_Docking clause_**
+
+1. An entity that is not a Party to these Clauses may, with the agreement of the Parties, accede to these Clauses at any time, either as a data exporter or as a data importer, by completing the Appendix and signing Annex I.A.
+
+2. Once it has completed the Appendix and signed Annex I.A, the acceding entity shall become a Party to these Clauses and have the rights and obligations of a data exporter or data importer in accordance with its designation in Annex I.A.
+
+3. The acceding entity shall have no rights or obligations arising under these Clauses from the period prior to becoming a Party.
+
+### <span style="text-decoration:underline;">SECTION II – OBLIGATIONS OF THE PARTIES</span>
+
+_Clause 8_
+
+**_Data protection safeguards_**
+
+The data exporter warrants that it has used reasonable efforts to determine that the data importer is able, through the implementation of appropriate technical and organisational measures, to satisfy its obligations under these Clauses.
+
+**8.1	Purpose limitation**
+
+The data importer shall process the personal data only for the specific purpose(s) of the transfer, as set out in Annex I.B. It may only process the personal data for another purpose:
+
+1. where it has obtained the data subject’s prior consent;
+2. where necessary for the establishment, exercise or defence of legal claims in the context of specific administrative, regulatory or judicial proceedings; or
+3. where necessary in order to protect the vital interests of the data subject or of another natural person.
+
+**8.2	Transparency**
+
+1. In order to enable data subjects to effectively exercise their rights pursuant to Clause 10, the data importer shall inform them, either directly or through the data exporter:
+
+    1. of its identity and contact details;
+
+    2. of the categories of personal data processed;
+
+    3. of the right to obtain a copy of these Clauses;
+
+    4. where it intends to onward transfer the personal data to any third party/ies, of the recipient or categories of recipients (as appropriate with a view to providing meaningful information), the purpose of such onward transfer and the ground therefore pursuant to Clause 8.7.
+
+2. Paragraph (a) shall not apply where the data subject already has the information, including when such information has already been provided by the data exporter, or providing the information proves impossible or would involve a disproportionate effort for the data importer. In the latter case, the data importer shall, to the extent possible, make the information publicly available.
+
+3. On request, the Parties shall make a copy of these Clauses, including the Appendix as completed by them, available to the data subject free of charge. To the extent necessary to protect business secrets or other confidential information, including personal data, the Parties may redact part of the text of the Appendix prior to sharing a copy, but shall provide a meaningful summary where the data subject would otherwise not be able to understand its content or exercise his/her rights. On request, the Parties shall provide the data subject with the reasons for the redactions, to the extent possible without revealing the redacted information.
+
+4. Paragraphs (a) to (c) are without prejudice to the obligations of the data exporter under Articles 13 and 14 of Regulation (EU) 2016/679.
+
+**8.3	Accuracy and data minimisation**
+
+1. Each Party shall ensure that the personal data is accurate and, where necessary, kept up to date. The data importer shall take every reasonable step to ensure that personal data that is inaccurate, having regard to the purpose(s) of processing, is erased or rectified without delay.
+
+2. If one of the Parties becomes aware that the personal data it has transferred or received is inaccurate, or has become outdated, it shall inform the other Party without undue delay.
+
+3. The data importer shall ensure that the personal data is adequate, relevant and limited to what is necessary in relation to the purpose(s) of processing.
+
+**8.4	Storage limitation**
+
+The data importer shall retain the personal data for no longer than necessary for the purpose(s) for which it is processed. It shall put in place appropriate technical or organisational measures to ensure compliance with this obligation, including erasure or anonymisation of the data and all back-ups at the end of the retention period.
+
+**8.5	Security of processing**
+
+1. The data importer and, during transmission, also the data exporter shall implement appropriate technical and organisational measures to ensure the security of the personal data, including  protection against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access (hereinafter “personal data breach”). In assessing the appropriate level of security, they shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purpose(s) of processing and the risks involved in the processing for the data subject. The Parties shall in particular consider having recourse to encryption or pseudonymisation, including during transmission, where the purpose of processing can be fulfilled in that manner.
+
+2. The Parties have agreed on the technical and organisational measures set out in Annex II. The data importer shall carry out regular checks to ensure that these measures continue to provide an appropriate level of security.
+
+3. The data importer shall ensure that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+
+4. In the event of a personal data breach concerning personal data processed by the data importer under these Clauses, the data importer shall take appropriate measures to address the personal data breach, including measures to mitigate its possible adverse effects.
+
+5. In case of a personal data breach that is likely to result in a risk to the rights and freedoms of natural persons, the data importer shall without undue delay notify both the data exporter and the competent supervisory authority pursuant to Clause 13. Such notification shall contain i) a description of the nature of the breach (including, where possible, categories and approximate number of data subjects and personal data records concerned), ii) its likely consequences, iii) the measures taken or proposed to address the breach, and iv) the details of a contact point from whom more information can be obtained. To the extent it is not possible for the data importer to provide all the information at the same time, it may do so in phases without undue further delay.
+
+6. In case of a personal data breach that is likely to result in a high risk to the rights and freedoms of natural persons, the data importer shall also notify without undue delay the data subjects concerned of the personal data breach and its nature, if necessary in cooperation with the data exporter, together with the information referred to in paragraph (e), points ii) to iv), unless the data importer has implemented measures to significantly reduce the risk to the rights or freedoms of natural persons, or notification would involve disproportionate efforts. In the latter case, the data importer shall instead issue a public communication or take a similar measure to inform the public of the personal data breach.
+
+7. The data importer shall document all relevant facts relating to the personal data breach, including its effects and any remedial action taken, and keep a record thereof.
+
+**8.6	Sensitive data**
+
+Where the transfer involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a person’s sex life or sexual orientation, or data relating to criminal convictions or offences (hereinafter “sensitive data”), the data importer shall apply specific restrictions and/or additional safeguards adapted to the specific nature of the data and the risks involved. This may include restricting the personnel permitted to access the personal data, additional security measures (such as pseudonymisation) and/or additional restrictions with respect to further disclosure.
+
+**8.7	Onward transfers**
+
+The data importer shall not disclose the personal data to a third party located outside the European Union (in the same country as the data importer or in another third country, hereinafter “onward transfer”) unless the third party is or agrees to be bound by these Clauses, under the appropriate Module. Otherwise, an onward transfer by the data importer may only take place if:
+
+1. it is to a country benefitting from an adequacy decision pursuant to Article 45 of Regulation (EU) 2016/679 that covers the onward transfer;
+
+2. the third party otherwise ensures appropriate safeguards pursuant to Articles 46 or 47 of Regulation (EU) 2016/679 with respect to the processing in question;
+
+3. the third party enters into a binding instrument with the data importer ensuring the same level of data protection as under these Clauses, and the data importer provides a copy of these safeguards to the data exporter;
+
+4. it is necessary for the establishment, exercise or defence of legal claims in the context of specific administrative, regulatory or judicial proceedings;
+
+5. it is necessary in order to protect the vital interests of the data subject or of another natural person; or
+
+6. where none of the other conditions apply, the data importer has obtained the explicit consent of the data subject for an onward transfer in a specific situation, after having informed him/her of its purpose(s), the identity of the recipient and the possible risks of such transfer to him/her due to the lack of appropriate data protection safeguards. In this case, the data importer shall inform the data exporter and, at the request of the latter, shall transmit to it a copy of the information provided to the data subject.
+
+Any onward transfer is subject to compliance by the data importer with all the other safeguards under these Clauses, in particular purpose limitation.
+
+**8.8	Processing under the authority of the data importer**
+
+The data importer shall ensure that any person acting under its authority, including a processor, processes the data only on its instructions.
+
+**8.9	Documentation and compliance**
+
+1. Each Party shall be able to demonstrate compliance with its obligations under these Clauses. In particular, the data importer shall keep appropriate documentation of the processing activities carried out under its responsibility.
+
+2. The data importer shall make such documentation available to the competent supervisory authority on request.
+
+_Clause 9 – not applicable_
+
+_Clause 10_
+
+**_Data subject rights_**
+
+1. The data importer, where relevant with the assistance of the data exporter, shall deal with any enquiries and requests it receives from a data subject relating to the processing of his/her personal data and the exercise of his/her rights under these Clauses without undue delay and at the latest within one month of the receipt of the enquiry or request. The data importer shall take appropriate measures to facilitate such enquiries, requests and the exercise of data subject rights. Any information provided to the data subject shall be in an intelligible and easily accessible form, using clear and plain language.
+
+2. In particular, upon request by the data subject the data importer shall, free of charge:
+
+    1. provide confirmation to the data subject as to whether personal data concerning him/her is being processed and, where this is the case, a copy of the data relating to him/her and the information in Annex I; if personal data has been or will be onward transferred, provide information on recipients or categories of recipients (as appropriate with a view to providing meaningful information) to which the personal data has been or will be onward transferred, the purpose of such onward transfers and their ground pursuant to Clause 8.7; and provide information on the right to lodge a complaint with a supervisory authority in accordance with Clause 12(c)(i);
+
+    2. rectify inaccurate or incomplete data concerning the data subject;
+
+    3. erase personal data concerning the data subject if such data is being or has been processed in violation of any of these Clauses ensuring third-party beneficiary rights, or if the data subject withdraws the consent on which the processing is based.
+
+3. Where the data importer processes the personal data for direct marketing purposes, it shall cease processing for such purposes if the data subject objects to it.
+
+4. The data importer shall not make a decision based solely on the automated processing of the personal data transferred (hereinafter “automated decision”), which would produce legal effects concerning the data subject or similarly significantly affect him / her, unless with the explicit consent of the data subject or if authorised to do so under the laws of the country of destination, provided that such laws lays down suitable measures to safeguard the data subject’s rights and legitimate interests. In this case, the data importer shall, where necessary in cooperation with the data exporter:
+
+    1. inform the data subject about the envisaged automated decision, the envisaged consequences and the logic involved; and
+    2. implement suitable safeguards, at least by enabling the data subject to contest the decision, express his/her point of view and obtain review by a human being.
+
+5. Where requests from a data subject are excessive, in particular because of their repetitive character, the data importer may either charge a reasonable fee taking into account the administrative costs of granting the request or refuse to act on the request.
+
+6. The data importer may refuse a data subject’s request if such refusal is allowed under the laws of the country of destination and is necessary and proportionate in a democratic society to protect one of the objectives listed in Article 23(1) of Regulation (EU) 2016/679.
+
+7. If the data importer intends to refuse a data subject’s request, it shall inform the data subject of the reasons for the refusal and the possibility of lodging a complaint with the competent supervisory authority and/or seeking judicial redress.
+
+_Clause 11_
+
+**_Redress_**
+
+1. The data importer shall inform data subjects in a transparent and easily accessible format, through individual notice or on its website, of a contact point authorised to handle complaints. It shall deal promptly with any complaints it receives from a data subject.
+
+2. In case of a dispute between a data subject and one of the Parties as regards compliance with these Clauses, that Party shall use its best efforts to resolve the issue amicably in a timely fashion. The Parties shall keep each other informed about such disputes and, where appropriate, cooperate in resolving them.
+
+3. Where the data subject invokes a third-party beneficiary right pursuant to Clause 3, the data importer shall accept the decision of the data subject to:
+
+    1. lodge a complaint with the supervisory authority in the Member State of his/her habitual residence or place of work, or the competent supervisory authority pursuant to Clause 13;
+
+    2. refer the dispute to the competent courts within the meaning of Clause 18.
+
+4. The Parties accept that the data subject may be represented by a not-for-profit body, organisation or association under the conditions set out in Article 80(1) of Regulation (EU) 2016/679.
+
+5. The data importer shall abide by a decision that is binding under the applicable EU or Member State law.
+
+6. The data importer agrees that the choice made by the data subject will not prejudice his/her substantive and procedural rights to seek remedies in accordance with applicable laws.
+
+_Clause 12_
+
+**_Liability_**
+
+1. Each Party shall be liable to the other Party/ies for any damages it causes the other Party/ies by any breach of these Clauses.
+
+2. Each Party shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages that the Party causes the data subject by breaching the third-party beneficiary rights under these Clauses. This is without prejudice to the liability of the data exporter under Regulation (EU) 2016/679.
+
+3. Where more than one Party is responsible for any damage caused to the data subject as a result of a breach of these Clauses, all responsible Parties shall be jointly and severally liable and the data subject is entitled to bring an action in court against any of these Parties.
+
+4. The Parties agree that if one Party is held liable under paragraph (c), it shall be entitled to claim back from the other Party/ies that part of the compensation corresponding to its / their responsibility for the damage.
+
+5. The data importer may not invoke the conduct of a processor or sub-processor to avoid its own liability.
+
+_Clause 13_
+
+**_Supervision_**
+
+1. The supervisory authority with responsibility for ensuring compliance by the data exporter with Regulation (EU) 2016/679 as regards the data transfer, as indicated in Annex I.C, shall act as competent supervisory authority.
+
+2. The data importer agrees to submit itself to the jurisdiction of and cooperate with the competent supervisory authority in any procedures aimed at ensuring compliance with these Clauses. In particular, the data importer agrees to respond to enquiries, submit to audits and comply with the measures adopted by the supervisory authority, including remedial and compensatory measures. It shall provide the supervisory authority with written confirmation that the necessary actions have been taken.
+
+### <span style="text-decoration:underline;">SECTION III – LOCAL LAWS AND OBLIGATIONS IN CASE OF ACCESS BY PUBLIC AUTHORITIES</span>
+
+_Clause 14_
+
+**_Local laws and practices affecting compliance with the Clauses_**
+
+1. The Parties warrant that they have no reason to believe that the laws and practices in the third country of destination applicable to the processing of the personal data by the data importer, including any requirements to disclose personal data or measures authorising access by public authorities, prevent the data importer from fulfilling its obligations under these Clauses. This is based on the understanding that laws and practices that respect the essence of the fundamental rights and freedoms and do not exceed what is necessary and proportionate in a democratic society to safeguard one of the objectives listed in Article 23(1) of Regulation (EU) 2016/679, are not in contradiction with these Clauses.
+
+2. The Parties declare that in providing the warranty in paragraph (a), they have taken due account in particular of the following elements:
+
+    1. the specific circumstances of the transfer, including the length of the processing chain, the number of actors involved and the transmission channels used; intended onward transfers; the type of recipient; the purpose of processing; the categories and format of the transferred personal data; the economic sector in which the transfer occurs; the storage location of the data transferred;
+
+    2. the laws and practices of the third country of destination– including those requiring the disclosure of data to public authorities or authorising access by such authorities – relevant in light of the specific circumstances of the transfer, and the applicable limitations and safeguards;
+
+    3. any relevant contractual, technical or organisational safeguards put in place to supplement the safeguards under these Clauses, including measures applied during transmission and to the processing of the personal data in the country of destination.
+
+3. The data importer warrants that, in carrying out the assessment under paragraph (b), it has made its best efforts to provide the data exporter with relevant information and agrees that it will continue to cooperate with the data exporter in ensuring compliance with these Clauses.
+
+4. The Parties agree to document the assessment under paragraph (b) and make it available to the competent supervisory authority on request.
+
+5. The data importer agrees to notify the data exporter promptly if, after having agreed to these Clauses and for the duration of the contract, it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under paragraph (a), including following a change in the laws of the third country or a measure (such as a disclosure request) indicating an application of such laws in practice that is not in line with the requirements in paragraph (a).
+
+6. Following a notification pursuant to paragraph (e), or if the data exporter otherwise has reason to believe that the data importer can no longer fulfil its obligations under these Clauses, the data exporter shall promptly identify appropriate measures (e.g. technical or organisational measures to ensure security and confidentiality) to be adopted by the data exporter and/or data importer to address the situation. The data exporter shall suspend the data transfer if it considers that no appropriate safeguards for such transfer can be ensured, or if instructed by the competent supervisory authority to do so. In this case, the data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses. If the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise. Where the contract is terminated pursuant to this Clause, Clause 16(d) and (e) shall apply.
+
+_Clause 15_
+
+**_Obligations of the data importer in case of access by public authorities_**
+
+**15.1	Notification**
+
+1. The data importer agrees to notify the data exporter and, where possible, the data subject promptly (if necessary with the help of the data exporter) if it:
+
+    1. receives a legally binding request from a public authority, including judicial authorities, under the laws of the country of destination for the disclosure of personal data transferred pursuant to these Clauses; such notification shall include information about the personal data requested, the requesting authority, the legal basis for the request and the response provided; or
+
+    2. becomes aware of any direct access by public authorities to personal data transferred pursuant to these Clauses in accordance with the laws of the country of destination; such notification shall include all information available to the importer.
+
+2. If the data importer is prohibited from notifying the data exporter and/or the data subject under the laws of the country of destination, the data importer agrees to use its best efforts to obtain a waiver of the prohibition, with a view to communicating as much information as possible, as soon as possible. The data importer agrees to document its best efforts in order to be able to demonstrate them on request of the data exporter.
+
+3. Where permissible under the laws of the country of destination, the data importer agrees to provide the data exporter, at regular intervals for the duration of the contract, with as much relevant information as possible on the requests received (in particular, number of requests, type of data requested, requesting authority/ies, whether requests have been challenged and the outcome of such challenges, etc.).
+
+4. The data importer agrees to preserve the information pursuant to paragraphs (a) to (c) for the duration of the contract and make it available to the competent supervisory authority on request.
+
+5. Paragraphs (a) to (c) are without prejudice to the obligation of the data importer pursuant to Clause 14(e) and Clause 16 to inform the data exporter promptly where it is unable to comply with these Clauses.
+
+**15.2	Review of legality and data minimisation**
+
+1. The data importer agrees to review the legality of the request for disclosure, in particular whether it remains within the powers granted to the requesting public authority, and to challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful under the laws of the country of destination, applicable obligations under international law and principles of international comity. The data importer shall, under the same conditions, pursue possibilities of appeal. When challenging a request, the data importer shall seek interim measures with a view to suspending the effects of the request until the competent judicial authority has decided on its merits. It shall not disclose the personal data requested until required to do so under the applicable procedural rules. These requirements are without prejudice to the obligations of the data importer under Clause 14(e).
+
+2. The data importer agrees to document its legal assessment and any challenge to the request for disclosure and, to the extent permissible under the laws of the country of destination, make the documentation available to the data exporter. It shall also make it available to the competent supervisory authority on request.
+
+3. The data importer agrees to provide the minimum amount of information permissible when responding to a request for disclosure, based on a reasonable interpretation of the request.
+
+### <span style="text-decoration:underline;">SECTION IV – FINAL PROVISIONS</span>
+
+_Clause 16_
+
+**_Non-compliance with the Clauses and termination_**
+
+1. The data importer shall promptly inform the data exporter if it is unable to comply with these Clauses, for whatever reason.
+
+2. In the event that the data importer is in breach of these Clauses or unable to comply with these Clauses, the data exporter shall suspend the transfer of personal data to the data importer until compliance is again ensured or the contract is terminated. This is without prejudice to Clause 14(f).
+
+3. The data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses, where:
+
+    1. the data exporter has suspended the transfer of personal data to the data importer pursuant to paragraph (b) and compliance with these Clauses is not restored within a reasonable time and in any event within one month of suspension;
+
+    2. the data importer is in substantial or persistent breach of these Clauses; or
+
+    3. the data importer fails to comply with a binding decision of a competent court or supervisory authority regarding its obligations under these Clauses.
+
+    In these cases, it shall inform the competent supervisory authority of such non-compliance. Where the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise.
+
+4. Personal data that has been transferred prior to the termination of the contract pursuant to paragraph (c) shall at the choice of the data exporter immediately be returned to the data exporter or deleted in its entirety. The same shall apply to any copies of the data. The data importer shall certify the deletion of the data to the data exporter. Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses. In case of local laws applicable to the data importer that prohibit the return or deletion of the transferred personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process the data to the extent and for as long as required under that local law.
+
+5. Either Party may revoke its agreement to be bound by these Clauses where (i) the European Commission adopts a decision pursuant to Article 45(3) of Regulation (EU) 2016/679 that covers the transfer of personal data to which these Clauses apply; or (ii) Regulation (EU) 2016/679 becomes part of the legal framework of the country to which the personal data is transferred. This is without prejudice to other obligations applying to the processing in question under Regulation (EU) 2016/679.
+
+_Clause 17_
+
+**_Governing law_**
+
+These Clauses shall be governed by the law of one of the EU Member States, provided such law allows for third-party beneficiary rights. The Parties agree that this shall be the law of Sweden.
+
+_Clause 18_
+
+**_Choice of forum and jurisdiction_**
+
+1. Any dispute arising from these Clauses shall be resolved by the courts of an EU Member State.
+
+2. The Parties agree that those shall be the courts of Sweden.
+
+3. A data subject may also bring legal proceedings against the data exporter and/or data importer before the courts of the Member State in which he/she has his/her habitual residence.
+
+4. The Parties agree to submit themselves to the jurisdiction of such courts.
+
+### <span style="text-decoration:underline;">ANNEX I</span>
+
+**A. LIST OF PARTIES**
+
+**Data exporter(s):**
+
+1. Name: Mediatool World W AB, 556790-6689
+
+    Address: As specified in the Agreement.
+
+    Contact person’s name, position and contact details: Joakim Landberg. joakim@mediatool.com
+
+    Activities relevant to the data transferred under these Clauses: The data exporter provides the Services to the data importer in accordance with the Agreement.
+
+    Signature and accession date: The Parties agree that execution of the Agreement by the Controller and the Processor shall constitute execution of these Clauses by both parties as of the Effective Date.
+
+    Role (controller/processor): Controller
+
+**Data importer(s):**
+
+2. Name: Customer
+
+    Address: As specified in in the Agreement or the applicable SOW
+
+    Contact person’s name, position and contact details: As specified in in the Agreement or the applicable SOW.
+
+    Activities relevant to the data transferred under these Clauses: The data exporter provides the Services to the data importer in accordance with the Agreement.
+
+    Signature and accession date: The Parties agree that execution of the Agreement by the Controller and the Processor shall constitute execution of these Clauses by both parties as of the Effective Date.
+
+    Role (controller/processor): Controller
+
+**B. DESCRIPTION OF TRANSFER**
+
+_Categories of data subjects whose personal data is transferred_
+
+The personal data transferred may concern the following categories of data subjects:
+
+1. Representatives, employees, and other workers of the data exporter and / or data importer;
+
+2. Consultants, other professional experts of the data exporter and / or data importer;
+
+3. Employees or representatives at affiliates, business partners (including suppliers) of the data exporter and / or data importer; and
+
+4. Other individuals that data exporter is in contact with due to the Parties contractual relationship e.g., in order to enter into or fulfil the Agreement, e.g. Users.
+
+_Categories of personal data transferred_
+
+Name; contact details; User’s user details and login details; employment details (title, position etc.); sex; communication; agreement data; information related to the contractual relationship such as minutes from meetings and trainings; logs of Users use of the Service; customer support issues, etc.
+
+_Sensitive data transferred (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures._
+
+N/A
+
+_The frequency of the transfer (e.g. whether the data is transferred on a one-off or continuous basis)._
+
+Continuous
+
+_Nature of the processing and purpose(s) of the data transfer and further processing_
+
+Collection; logging; organization; structuring; storage; adaptation or alteration; use; disclosure; pseudonymization; anonymization; and erasure.
+
+The purpose of the data exporter’s transfer of personal data is to provide the Service in accordance with the Agreement, to fulfil its contractual obligations towards data importer including: to communicate with the customer/data importer; to provide trainings and support; to provide the customer/data importer a contact person; to administer the customer relationship; to manage customer support issues, invoicing and claims.
+
+
